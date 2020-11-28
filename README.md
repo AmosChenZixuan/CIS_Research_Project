@@ -8,3 +8,9 @@ TO-DO:
     a) https://www.kaggle.com/c/1056lab-student-performance-prediction/data?select=test.csv
 
 Note:
+
+Evaluation:
+    regresison: 
+        R Square
+    classificaiton: 
+        Sensitivity and specificity(for binary prediction): true positive, false positive, true negative, false negative
